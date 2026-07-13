@@ -46,30 +46,26 @@ class MohamedKhalid:
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
+
+### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,github"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,git,github,jupyter,vscode"/>
 </p>
 
-### AI & ML
+### AI & ML & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### Data & Libraries
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -88,31 +84,6 @@ class MohamedKhalid:
 
 [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MO-Khalid-1/vulnsneak)
 [![Kaggle](https://img.shields.io/badge/Models%20%26%20Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/mokhalid1/vulnsneak-ai-models)
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MO-Khalid-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MO-Khalid-1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MO-Khalid-1&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MO-Khalid-1&theme=tokyo-night&hide_border=true"/>
-</div>
 
 ---
 
