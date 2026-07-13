@@ -48,15 +48,15 @@ class MohamedKhalid:
 
 # 🛠️ Tech Stack
 
-### Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,git,github,jupyter,vscode"/>
-</p>
-
-### AI & ML & Data
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -107,15 +107,15 @@ class MohamedKhalid:
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-khalid-mk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.kaggle.com/mokhalid1" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" height="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:mohamedkhalid.mok@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/>
   </a>
 </p>
 
