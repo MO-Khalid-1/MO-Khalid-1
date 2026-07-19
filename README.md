@@ -4,13 +4,13 @@
 
 ### 🤖 Junior AI & Machine Learning Engineer
 
-<p>
+<!-- <p>
 <img src="https://komarev.com/ghpvc/?username=MO-Khalid-1&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/MO-Khalid-1?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/MO-Khalid-1?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
-</div>
+</div> -->
 
 ---
 
